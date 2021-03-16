@@ -1,5 +1,7 @@
 # DevApi Code Challenge :)
 
+![DevApi](https://devapi.com.br/static/images/cover.png)
+
 ## Sobre a DevApi
 
 Somo uma plataforma de automação para negócios.
