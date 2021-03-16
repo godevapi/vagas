@@ -51,7 +51,7 @@ Sua API deve conter as seguintes features:
 | Id          |
 | Nome        |
 | Tipo        |
-| Tipo        |
+| Privado     |
 | URL base    |
 | URL da logo |
 | Categoria   |
