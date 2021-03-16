@@ -65,7 +65,7 @@ Sua API deve conter as seguintes features:
 - Estrutura do Projeto
 - Segurança da API, como autenticação, senhas salvas no banco, SQL Injection e outros
 - Boas práticas da Linguagem/Framework
-- Seu projeto deverá seguir tudo o que foi exigido na seção O que desenvolver?
+- Seu projeto deverá seguir tudo o que foi exigido na seção [As regras do jogo](##--as-regras-do-jogo)
 
 ## 🏗 Para onde enviar seu repositório
 
