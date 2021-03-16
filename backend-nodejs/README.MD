@@ -25,12 +25,12 @@ Boa sorte e obrigado por participar!
 
 Esses itens não são obrigatórios, porém desejados.
 
-- Testes unitários
-- Linter
-- Code Formater
-- Docker
-- Documentação utilizando Swagger ou ReDoc
-- Utilizar Serverless
+- Testes unitários;
+- Linter;
+- Code Formater;
+- Docker;
+- Documentação utilizando Swagger ou ReDoc;
+- Utilizar Serverless.
 
 ## 🖥 O Desafio
 
@@ -38,40 +38,39 @@ O desafio consiste em criar uma Web API para a DevApi que será consumida pelo p
 
 Sua API deve conter as seguintes features:
 
-- Listar conectores
-- Filtrar conector por nome, categoria, tipo (REST, BD, SOAP), Privado (PUBLIC ou PRIVATE)
-- Adicionar conector
-- Editar conector
-- Exclusão lógica (Desativação)
+- Listar conectores;
+- Filtrar conector por nome, categoria, tipo (REST, BD, SOAP), Privacidade (PUBLIC ou PRIVATE);
+- Adicionar conector;
+- Editar conector;
+- Exclusão lógica. 
 
 ### Dados do conector: 
 
 | Campo       |
 |-------------|
 | Id          |
-| Nome        |
-| Tipo        |
-| Privado     |
-| URL base    |
-| URL da logo |
-| Categoria   |
-| Descrição   |
-| Private     |
+| Name        |
+| Type        |
+| Privacy     |
+| Base URL    |
+| Logo URL    |
+| Category    |
+| Description |
 | Status      |
 
 
 ## 🕵🏻‍♂️ Como vou ser avaliado?
 
-- Estrutura do Projeto
-- Segurança da API, como autenticação, senhas salvas no banco, SQL Injection e outros
-- Boas práticas da Linguagem/Framework
-- Seu projeto deverá seguir tudo o que foi exigido na seção [As regras do jogo](##--as-regras-do-jogo)
+- Estrutura do Projeto;
+- Segurança da API, como autenticação, senhas salvas no banco, SQL Injection e outros;
+- Boas práticas da Linguagem/Framework;
+- Seu projeto deverá seguir tudo o que foi exigido na seção: [As regras do jogo](##--as-regras-do-jogo).
 
-## 🏗 Para onde enviar seu repositório
+## 🏗 Para onde enviar seu repositório:
 
 Todo o seu código deve ser disponibilizado num repositório **público** ou **privado** em seu Github, Gitlab ou Bitbucket 
-pessoal. Envie um email para mariana.ganassin@devninjas.com.br com o assunto Desafio Backend NodeJS - [SEU NOME] contendo o link para o repositório que você criou ou faça um pull-request.
+pessoal. Envie um email para mariana.ganassin@devapi.com.br com o assunto Desafio Backend NodeJS - [SEU NOME] contendo o link para o repositório que você criou ou faça um pull-request.
 
 ## :question: Dúvidas
 
-Envie suas dúvidas diretamente para mariana.ganassin@devninjas.com.br.
+Envie suas dúvidas diretamente para mariana.ganassin@devapi.com.br.
