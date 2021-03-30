@@ -1,0 +1,180 @@
+{
+  "_type": "export",
+  "__export_format": 4,
+  "__export_date": "2021-03-30T01:26:48.421Z",
+  "__export_source": "insomnia.desktop.app:v2021.2.1",
+  "resources": [
+    {
+      "_id": "req_9d7d6011e2f2454b8a34c04f2264753b",
+      "parentId": "fld_3346a0da35c84ea0827656b45ed8931e",
+      "modified": 1617067565304,
+      "created": 1616980145281,
+      "url": "http://challenge.devapi.com.br/v1/connectors",
+      "name": "Connector Index",
+      "description": "Retorna uma lista com todos os conectores.\n\nFiltros:\n\n- name\n- category\n- privacy (PUBLIC ou PRIVATE)\n\nPaginação:\n\n- page\n- limit",
+      "method": "GET",
+      "body": {},
+      "parameters": [
+        {
+          "name": "page",
+          "value": "1",
+          "description": "",
+          "id": "pair_da5d68fb7a624053aab2368d046224e0"
+        },
+        {
+          "name": "limit",
+          "value": "1",
+          "description": "",
+          "id": "pair_b7426740289e435c93ecac4567abc137"
+        },
+        {
+          "name": "name",
+          "value": "",
+          "description": "",
+          "id": "pair_7cc6a9fe33c04f688b00fea86bdc908c",
+          "disabled": true
+        },
+        {
+          "name": "category",
+          "value": "",
+          "description": "",
+          "id": "pair_1fc7dcdaf7bb4621b00a5942c7a559cf",
+          "disabled": true
+        },
+        {
+          "name": "privacy",
+          "value": "",
+          "description": "",
+          "id": "pair_0a6a12b58f9343aa9ab3c449dab21aa7",
+          "disabled": true
+        }
+      ],
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json",
+          "description": "",
+          "id": "pair_7eba59ac6b8a4780bd3d54c18edbf8de"
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": -1616766746310,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "fld_3346a0da35c84ea0827656b45ed8931e",
+      "parentId": "fld_94a27dcaae384d82a520147b612c4c69",
+      "modified": 1616767001433,
+      "created": 1616766774742,
+      "name": "Connectors",
+      "description": "",
+      "environment": {},
+      "environmentPropertyOrder": null,
+      "metaSortKey": -1616766774742,
+      "_type": "request_group"
+    },
+    {
+      "_id": "fld_94a27dcaae384d82a520147b612c4c69",
+      "parentId": "wrk_7b6a6b4353eb4717b23bde9a7404f735",
+      "modified": 1616767016286,
+      "created": 1616766776658,
+      "name": "App_Conectores",
+      "description": "",
+      "environment": {},
+      "environmentPropertyOrder": null,
+      "metaSortKey": -1616766776658,
+      "_type": "request_group"
+    },
+    {
+      "_id": "wrk_7b6a6b4353eb4717b23bde9a7404f735",
+      "parentId": null,
+      "modified": 1617067547595,
+      "created": 1616766761304,
+      "name": "API  CHALLENGE ",
+      "description": "",
+      "scope": "collection",
+      "_type": "workspace"
+    },
+    {
+      "_id": "req_9fcad184d2b3495ab34e3d3950b4410d",
+      "parentId": "fld_242765f9366344bbb3911d90594574b1",
+      "modified": 1617067570067,
+      "created": 1617064290373,
+      "url": "https://challenge.devapi.com.br/v1/categories",
+      "name": "Category Index",
+      "description": "Retorna uma lista de categorias.",
+      "method": "GET",
+      "body": {},
+      "parameters": [],
+      "headers": [
+        {
+          "name": "Content-Type",
+          "value": "application/json",
+          "description": "",
+          "id": "pair_7eba59ac6b8a4780bd3d54c18edbf8de"
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": -1616766746310,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "fld_242765f9366344bbb3911d90594574b1",
+      "parentId": "fld_94a27dcaae384d82a520147b612c4c69",
+      "modified": 1617064290365,
+      "created": 1617064290365,
+      "name": "Categories",
+      "description": "",
+      "environment": {},
+      "environmentPropertyOrder": null,
+      "metaSortKey": -1616766746312,
+      "_type": "request_group"
+    },
+    {
+      "_id": "env_33d950e41245c52633083c9d8e9aea33c822da0e",
+      "parentId": "wrk_7b6a6b4353eb4717b23bde9a7404f735",
+      "modified": 1616766761730,
+      "created": 1616766761730,
+      "name": "Base Environment",
+      "data": {},
+      "dataPropertyOrder": null,
+      "color": null,
+      "isPrivate": false,
+      "metaSortKey": 1616766761730,
+      "_type": "environment"
+    },
+    {
+      "_id": "jar_33d950e41245c52633083c9d8e9aea33c822da0e",
+      "parentId": "wrk_7b6a6b4353eb4717b23bde9a7404f735",
+      "modified": 1616766761735,
+      "created": 1616766761735,
+      "name": "Default Jar",
+      "cookies": [],
+      "_type": "cookie_jar"
+    },
+    {
+      "_id": "spc_c433a3b67c2744ac8a4162dd827b20e2",
+      "parentId": "wrk_7b6a6b4353eb4717b23bde9a7404f735",
+      "modified": 1616766761387,
+      "created": 1616766761387,
+      "fileName": "App_Connectors",
+      "contents": "",
+      "contentType": "yaml",
+      "_type": "api_spec"
+    }
+  ]
+}
