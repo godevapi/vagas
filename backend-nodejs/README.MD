@@ -73,4 +73,4 @@ pessoal. Envie um email para mariana.ganassin@devapi.com.br com o assunto Desafi
 
 ## :question: Dúvidas
 
-Envie suas dúvidas diretamente para mariana.ganassin@devapi.com.br.
+Envie suas dúvidas diretamente para tais.moura@devapi.com.br.
