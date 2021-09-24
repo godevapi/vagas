@@ -46,11 +46,11 @@ A documentação da API está disponível a partir de uma collection para insomn
 ## 🏗 Para onde enviar seu repositório:
 
 Todo o seu código deve ser disponibilizado num repositório **público** ou **privado** em seu Github, Gitlab ou Bitbucket 
-pessoal. Envie um email para mariana.ganassin@devapi.com.br com o assunto Desafio Frontend React - [SEU NOME] contendo o link para o repositório que você criou ou faça um pull-request.
+pessoal. Envie um email para tais.moura@devapi.com.br com o assunto Desafio Frontend React - [SEU NOME] contendo o link para o repositório que você criou ou faça um pull-request.
 
 ## :question: Dúvidas
 
-Envie suas dúvidas diretamente para mariana.ganassin@devapi.com.br.
+Envie suas dúvidas diretamente para tais.moura@devapi.com.br.
 
 
 
