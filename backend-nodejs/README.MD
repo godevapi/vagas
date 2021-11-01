@@ -1,36 +1,40 @@
 # Desafio de código Backend NodeJS
 
-Objetivo deste desafio é avaliarmos o seu domínio em back-end, ou seja, sua organização, lógica e boas práticas com o 
-código, familiaridade com programação em NodeJs e tecnologias utilizadas.
+#### Nesse desafio serão avaliados
+* Seu domínio em Back-End
+* Lógica
+* Forma de organizar o código
+* Segurança
+* Boas práticas
+* Conhecimento em Node.js e tecnologias utilizadas
 
 Boa sorte e obrigado por participar!
 
 ## 🚨 As regras do jogo
 
-1. A API deverá ser construída em NodeJS. Nós preferimos NestJs, mas se for optar por outro, justifique sua escolha no README;
+1. A API deverá ser construída em **Node.js**. Nós preferimos o framework NestJS, mas se for optar por outro, justifique sua escolha no README.
 
-2. Implementar autenticação e deverá seguir o padrão JWT, lembrando que o token a ser recebido deverá ser no formato Bearer;
+2. Implementar autenticação com **JWT**. O token deve ser informado no formato Bearer.
 
-3. Para a comunicação com o banco de dados utilize algum ORM/ODM;
+3. Utilize **Banco de Dados Não Relacionais**. Nós preferimos MongoDB, mas se for optar por outro, justifique usa escolha no README.
 
-4. Utilizar banco não relacionais permitidos. Nós preferimos MongoDB, mas se for optar por outro, justifique sua escolha no README;
+4. Para a comunicação com o Banco de Dados, utilize algum ODM. Ex: Mongoose.
 
-5. Sua API deverá seguir os padrões Rest na construção das rotas e retornos; 
+5. Sua API deverá seguir os padrões REST na construção das rotas e nos retornos.
 
-6. Crie um arquivo README que explique como rodar o projeto, como executar quaisquer scripts necessários;
+6. Crie um arquivo README que explique como executar o projeto, e quaisquer scripts necessários.
 
-7. A aplicação deve possuir um script que popula o banco de dados inicialmente com conectores fictícios para demonstração.
+7. A aplicação deve possuir um script que popule o Banco de Dados inicialmente com conectores fictícios para demonstração.
 
 ## 🎁 Bônus
 
 Esses itens não são obrigatórios, porém desejados.
 
-- Testes unitários;
-- Linter;
-- Code Formater;
-- Docker;
-- Documentação utilizando Swagger ou ReDoc;
-- Utilizar Serverless.
+* Clean Code
+* Testes automatizados
+* Docker
+* Linter
+* Serverless
 
 ## 🖥 O Desafio
 
@@ -38,11 +42,11 @@ O desafio consiste em criar uma Web API para a DevApi que será consumida pelo p
 
 Sua API deve conter as seguintes features:
 
-- Listar conectores;
-- Filtrar conector por nome, categoria, tipo (REST, BD, SOAP), Privacidade (PUBLIC ou PRIVATE);
-- Adicionar conector;
-- Editar conector;
-- Exclusão lógica. 
+* Criar conector
+* Listar conector
+* Filtrar conector por nome, categoria, tipo (REST, BD, SOAP), privacidade (PUBLIC, PRIVATE)
+* Editar conector
+* Excluir conector (exclusão lógica)
 
 ### Dados do conector: 
 
@@ -58,18 +62,10 @@ Sua API deve conter as seguintes features:
 | Description |
 | Status      |
 
+## 🏗 Ao finalizar o projeto
 
-## 🕵🏻‍♂️ Como vou ser avaliado?
-
-- Estrutura do Projeto;
-- Segurança da API, como autenticação, senhas salvas no banco, SQL Injection e outros;
-- Boas práticas da Linguagem/Framework;
-- Seu projeto deverá seguir tudo o que foi exigido na seção: [As regras do jogo](##--as-regras-do-jogo).
-
-## 🏗 Para onde enviar seu repositório:
-
-Todo o seu código deve ser disponibilizado num repositório **público** ou **privado** em seu Github, Gitlab ou Bitbucket 
-pessoal. Envie um email para mariana.ganassin@devapi.com.br com o assunto Desafio Backend NodeJS - [SEU NOME] contendo o link para o repositório que você criou ou faça um pull-request.
+Seu projeto deve ser disponibilizado em um repositório **público** do GitHub.
+Envie um email para tais.moura@devapi.com.br com o assunto Desafio Back-End Node.js - [SEU NOME] contendo o link para o repositório que você criou.
 
 ## :question: Dúvidas
 
