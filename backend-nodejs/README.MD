@@ -14,7 +14,7 @@ Boa sorte e obrigado por participar!
 
 1. A API deverá ser construída em **Node.js**. Nós preferimos o framework NestJS, mas se for optar por outro, justifique sua escolha no README.
 
-2. Implementar autenticação com **JWT**. O token deve ser informado no formato Bearer.
+2. Implementar autenticação com **JWT**. O token deve ser informado no formato Bearer nas requisições.
 
 3. Utilize **Banco de Dados Não Relacionais**. Nós preferimos MongoDB, mas se for optar por outro, justifique usa escolha no README.
 
