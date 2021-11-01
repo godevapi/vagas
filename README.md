@@ -1,21 +1,25 @@
 # DevApi Code Challenge :)
 
-![DevApi](https://devapi.com.br/static/images/cover.png)
+![DevApi](./.github/devapi-logo.svg)
 
 ## Sobre a DevApi
 
-Somo uma plataforma de automação para negócios.
-
+Somos uma plataforma de automação para negócios.
 Nosso objetivo é revolucionar a experiência de integração, através de API seguras e automações inteligentes. 
 
 ## Quem buscamos
 
-Queremos uma pessoa que gosta do que faz, que trabalhe em equipe, que esteja sempre buscando atualização e que construa soluções inovadoras.
+##### Buscamos pessoas que:
 
-Se você se identificou, venha fazer parte do nosso time!
+* Sejam apaixonadas pelo que fazem
+* Gostem de trabalhar em equipe (aqui Ninja ajuda Ninja)
+* Estejam sempre buscando aprimorar seus conhecimentos
+* Que constroem soluções inovadoras 
 
-## Escolha o seu desafio!
+Se você se identificou, venha fazer parte do nosso time :rocket:
 
-[Desafio para Backend NodeJS](https://github.com/godevapi/vagas/tree/master/backend-nodejs)
+## Escolha o seu desafio
 
-[Desafio para Frontend Reactjs](https://github.com/godevapi/vagas/tree/master/frontend-reactjs)
+#### [Desafio para Backend Node.js](https://github.com/godevapi/vagas/tree/master/backend-nodejs)
+
+#### [Desafio para Frontend React.js](https://github.com/godevapi/vagas/tree/master/frontend-reactjs)
