@@ -23,3 +23,5 @@ Se você se identificou, venha fazer parte do nosso time :rocket:
 #### [Desafio para Backend Node.js](https://github.com/godevapi/vagas/tree/master/backend-nodejs)
 
 #### [Desafio para Frontend React.js](https://github.com/godevapi/vagas/tree/master/frontend-reactjs)
+
+#### [Desafio para Integração](https://github.com/godevapi/vagas/tree/master/integrations)
