@@ -42,8 +42,8 @@ Sua planilha deve conter os seguintes dados:
 # 🏗 Ao finalizar o projeto
 
 Seu projeto deve ser disponibilizado em um repositório **público** do GitHub.
-Envie um email para julia.moraes@devapi.com.br com o assunto Desafio Integração - [SEU NOME] contendo o link para o repositório que você criou.
+Envie um email para william@devapi.com.br com o assunto Desafio Integração - [SEU NOME] contendo o link para o repositório que você criou.
 
 ## :question: Dúvidas
 
-Envie suas dúvidas diretamente para julia.moraes@devapi.com.br.
+Envie suas dúvidas diretamente para william@devapi.com.br.
